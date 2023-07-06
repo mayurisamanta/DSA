@@ -1,4 +1,4 @@
-## **Pattern of N**
+## **Sum of Square**
 - Given a non-negative integer ```k``` , decide whether there're two integers ```a``` and ```b``` such that ```a^2+ b^2= k```
 
 #### **Input**
