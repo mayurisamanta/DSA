@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class two_sum {
+public class Two_sum {
 
     public static int[] twoSum (int target, int[] nums){
 
@@ -28,7 +28,7 @@ public class two_sum {
         int[] nums = {3,3};
         int target = 6;
 
-        System.out.println(Arrays.toString(twoSum(target, nums)));;
+        System.out.println(Arrays.toString(twoSum(target, nums)));
     }
 
     // Time Complexity : O(N)
