@@ -1,0 +1,1 @@
+[Java Substring](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true)
